@@ -8,7 +8,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/StartMenu.unity
     guid: 8d05d893bf582d34db26d9ae3d3c916d
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/GameBoard.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/CollisionTst.unity
+    guid: dc8c5568fe097fa44a6ff6f801230357
   m_configObjects: {}
